@@ -1,5 +1,5 @@
 import { spawn } from "child_process";
-import { getPairingCode } from "./lib/pairHelper.js";
+import {"./lib/pairHelper.js";} from "./lib/pairHelper.js";
 import fs from "fs";
 import os from "os";
 import path from "path";
